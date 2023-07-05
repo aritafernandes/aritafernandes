@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rita</h1>
-<h3 align="center">Lisbon's aspiring Software Developer looking for an entry-level opportunity.</h3>
+<h1>Hi 👋, I'm Rita</h1>
+<h3>Lisbon's aspiring Software Developer looking for an entry-level opportunity.</h3>
 
 - 🔭 I've finished a 9 week intensive boot camp, and here is my team's final project. [TheSocialBookClub](https://github.com/aritafernandes/thesocialbookclub)
 
